@@ -1,0 +1,1 @@
+{"ateraz": 0, "Teraz dziala": 200, "Dziala 1": 300, "wszystko dziala": 600}
